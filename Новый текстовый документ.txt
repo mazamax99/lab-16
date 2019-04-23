@@ -1,0 +1,1 @@
+<app-name> --srcfile=/path/to/file --dstfile=/path/to/file --bufsize=4096
